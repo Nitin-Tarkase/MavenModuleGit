@@ -6,7 +6,7 @@ public class UserDetails {
 
 	public static void main(String[] args) {
 		User user=new User();
-		System.out.println("username "+user.getName());
+		System.out.println("username is"+user.getName());
 
 	}
 
